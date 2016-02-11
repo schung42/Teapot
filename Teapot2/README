@@ -1,0 +1,36 @@
+MP3 Teapot Readme File
+
+Basic Information
+PLATFORM: OSX
+OS Version: OSX Yosemite 10.10.1
+Build Environment: Xcode
+Build Environment Version: Version 6.2 (6C131e)
+Language: C++
+External Libraries Used (e.g., GLUT, GL, etc.): glut.h, stdlib.h, math.h, sstream.h, vector.h, SOIL.h, OpenGL.framework, Cocoa.framework, GLUT.framework, CoreFoundation.framework
+
+Note: Needed files for SOIL to work should already be included in the project directory, so there is no need to download SOIL again. 
+
+Build Instructions
+1. Unzip File
+2. Open Folder "Teapot2"
+3. Open File "Teapot2.xcodeproj"
+4. Run
+
+OR
+
+Simply run the Executable
+1. Unzip File
+2. Open Folder "Teapot2"
+3. Open Folder "Teapot2"
+4. Double Click Executable "Teapot2"
+
+Controls
+Directional Keys control rotation of teapot
+'l' - toggles single light source on and off
+'r' - toggles reflection mode on and off
+'t' - toggles texture on and off
+'q' - quit
+
+
+Video Demo
+https://www.youtube.com/watch?v=es_X1xkAEx8&feature=youtu.be
